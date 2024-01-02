@@ -1,4 +1,4 @@
-# Algorithms C#: Explains Algorithms with Beautiful Pictures Learn it Easy Better and Well (Easy Learning C# Programming Foundation Data Structures and Algorithms) by yang hu (Author)
+## Algorithms C#: Explains Algorithms with Beautiful Pictures Learn it Easy Better and Well (Easy Learning C# Programming Foundation Data Structures and Algorithms) by yang hu (Author)
 
 This book is rich in examples, with beautiful pictures and texts, and explains the data structure and algorithms in a way that is easy to understand. It is designed to help programmers better use the energy of algorithms.
 
