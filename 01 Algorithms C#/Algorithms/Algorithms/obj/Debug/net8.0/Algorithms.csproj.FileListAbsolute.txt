@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\obj\Debug\net8.0\refint\Algorithms.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\Algorithms\obj\Debug\net8.0\ref\Algorithms.dll

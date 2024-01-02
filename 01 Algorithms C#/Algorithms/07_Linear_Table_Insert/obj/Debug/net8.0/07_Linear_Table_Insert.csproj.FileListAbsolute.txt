@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\bin\Debug\net8.0\07_Linear_Table_Insert.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\bin\Debug\net8.0\07_Linear_Table_Insert.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\bin\Debug\net8.0\07_Linear_Table_Insert.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\bin\Debug\net8.0\07_Linear_Table_Insert.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\bin\Debug\net8.0\07_Linear_Table_Insert.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\obj\Debug\net8.0\07_Linear_Table_Insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\obj\Debug\net8.0\07_Linear_Table_Insert.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\obj\Debug\net8.0\07_Linear_Table_Insert.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\obj\Debug\net8.0\07_Linear_Table_Insert.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\obj\Debug\net8.0\07_Linear_Table_Insert.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\obj\Debug\net8.0\refint\07_Linear_Table_Insert.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\obj\Debug\net8.0\07_Linear_Table_Insert.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\obj\Debug\net8.0\07_Linear_Table_Insert.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\07_Linear_Table_Insert\obj\Debug\net8.0\ref\07_Linear_Table_Insert.dll

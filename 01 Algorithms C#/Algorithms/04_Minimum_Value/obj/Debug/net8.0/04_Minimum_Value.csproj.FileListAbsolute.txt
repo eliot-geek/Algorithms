@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\bin\Debug\net8.0\04_Minimum_Value.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\bin\Debug\net8.0\04_Minimum_Value.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\bin\Debug\net8.0\04_Minimum_Value.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\bin\Debug\net8.0\04_Minimum_Value.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\bin\Debug\net8.0\04_Minimum_Value.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\obj\Debug\net8.0\04_Minimum_Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\obj\Debug\net8.0\04_Minimum_Value.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\obj\Debug\net8.0\04_Minimum_Value.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\obj\Debug\net8.0\04_Minimum_Value.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\obj\Debug\net8.0\04_Minimum_Value.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\obj\Debug\net8.0\refint\04_Minimum_Value.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\obj\Debug\net8.0\04_Minimum_Value.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\obj\Debug\net8.0\04_Minimum_Value.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\04_Minimum_Value\obj\Debug\net8.0\ref\04_Minimum_Value.dll

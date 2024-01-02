@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\bin\Debug\net8.0\11_Linear_Table_Search.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\bin\Debug\net8.0\11_Linear_Table_Search.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\bin\Debug\net8.0\11_Linear_Table_Search.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\bin\Debug\net8.0\11_Linear_Table_Search.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\bin\Debug\net8.0\11_Linear_Table_Search.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\obj\Debug\net8.0\11_Linear_Table_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\obj\Debug\net8.0\11_Linear_Table_Search.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\obj\Debug\net8.0\11_Linear_Table_Search.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\obj\Debug\net8.0\11_Linear_Table_Search.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\obj\Debug\net8.0\11_Linear_Table_Search.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\obj\Debug\net8.0\refint\11_Linear_Table_Search.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\obj\Debug\net8.0\11_Linear_Table_Search.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\obj\Debug\net8.0\11_Linear_Table_Search.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\11_Linear_Table_Search\obj\Debug\net8.0\ref\11_Linear_Table_Search.dll

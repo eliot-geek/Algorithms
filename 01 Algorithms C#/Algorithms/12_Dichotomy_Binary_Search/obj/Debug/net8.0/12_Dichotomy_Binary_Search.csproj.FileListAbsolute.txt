@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\bin\Debug\net8.0\12_Dichotomy_Binary_Search.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\bin\Debug\net8.0\12_Dichotomy_Binary_Search.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\bin\Debug\net8.0\12_Dichotomy_Binary_Search.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\bin\Debug\net8.0\12_Dichotomy_Binary_Search.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\bin\Debug\net8.0\12_Dichotomy_Binary_Search.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\obj\Debug\net8.0\12_Dichotomy_Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\obj\Debug\net8.0\12_Dichotomy_Binary_Search.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\obj\Debug\net8.0\12_Dichotomy_Binary_Search.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\obj\Debug\net8.0\12_Dichotomy_Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\obj\Debug\net8.0\12_Dichotomy_Binary_Search.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\obj\Debug\net8.0\refint\12_Dichotomy_Binary_Search.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\obj\Debug\net8.0\12_Dichotomy_Binary_Search.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\obj\Debug\net8.0\12_Dichotomy_Binary_Search.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\12_Dichotomy_Binary_Search\obj\Debug\net8.0\ref\12_Dichotomy_Binary_Search.dll

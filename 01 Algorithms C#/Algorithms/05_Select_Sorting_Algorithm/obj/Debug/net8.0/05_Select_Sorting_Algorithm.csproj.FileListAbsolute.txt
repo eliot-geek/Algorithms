@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\bin\Debug\net8.0\05_Select_Sorting_Algorithm.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\bin\Debug\net8.0\05_Select_Sorting_Algorithm.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\bin\Debug\net8.0\05_Select_Sorting_Algorithm.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\bin\Debug\net8.0\05_Select_Sorting_Algorithm.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\bin\Debug\net8.0\05_Select_Sorting_Algorithm.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\obj\Debug\net8.0\05_Select_Sorting_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\obj\Debug\net8.0\05_Select_Sorting_Algorithm.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\obj\Debug\net8.0\05_Select_Sorting_Algorithm.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\obj\Debug\net8.0\05_Select_Sorting_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\obj\Debug\net8.0\05_Select_Sorting_Algorithm.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\obj\Debug\net8.0\refint\05_Select_Sorting_Algorithm.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\obj\Debug\net8.0\05_Select_Sorting_Algorithm.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\obj\Debug\net8.0\05_Select_Sorting_Algorithm.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\05_Select_Sorting_Algorithm\obj\Debug\net8.0\ref\05_Select_Sorting_Algorithm.dll

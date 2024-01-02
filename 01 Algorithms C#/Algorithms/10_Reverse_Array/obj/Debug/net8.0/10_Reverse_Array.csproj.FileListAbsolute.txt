@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\bin\Debug\net8.0\10_Reverse_Array.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\bin\Debug\net8.0\10_Reverse_Array.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\bin\Debug\net8.0\10_Reverse_Array.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\bin\Debug\net8.0\10_Reverse_Array.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\bin\Debug\net8.0\10_Reverse_Array.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\obj\Debug\net8.0\10_Reverse_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\obj\Debug\net8.0\10_Reverse_Array.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\obj\Debug\net8.0\10_Reverse_Array.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\obj\Debug\net8.0\10_Reverse_Array.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\obj\Debug\net8.0\10_Reverse_Array.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\obj\Debug\net8.0\refint\10_Reverse_Array.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\obj\Debug\net8.0\10_Reverse_Array.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\obj\Debug\net8.0\10_Reverse_Array.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\10_Reverse_Array\obj\Debug\net8.0\ref\10_Reverse_Array.dll

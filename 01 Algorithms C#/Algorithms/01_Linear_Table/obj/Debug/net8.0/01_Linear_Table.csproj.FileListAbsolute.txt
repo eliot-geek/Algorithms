@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\bin\Debug\net8.0\01_Linear_Table.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\bin\Debug\net8.0\01_Linear_Table.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\bin\Debug\net8.0\01_Linear_Table.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\bin\Debug\net8.0\01_Linear_Table.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\bin\Debug\net8.0\01_Linear_Table.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\obj\Debug\net8.0\01_Linear_Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\obj\Debug\net8.0\01_Linear_Table.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\obj\Debug\net8.0\01_Linear_Table.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\obj\Debug\net8.0\01_Linear_Table.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\obj\Debug\net8.0\01_Linear_Table.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\obj\Debug\net8.0\refint\01_Linear_Table.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\obj\Debug\net8.0\01_Linear_Table.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\obj\Debug\net8.0\01_Linear_Table.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\01_Linear_Table\obj\Debug\net8.0\ref\01_Linear_Table.dll
