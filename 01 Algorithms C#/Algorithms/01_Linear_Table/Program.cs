@@ -13,6 +13,7 @@ namespace _01_Linear_Table
                 Debug.Write(scores[i] + " ");
                 Console.Write(scores[i] + " ");
             }
+            Console.WriteLine();
         }
     }
 }

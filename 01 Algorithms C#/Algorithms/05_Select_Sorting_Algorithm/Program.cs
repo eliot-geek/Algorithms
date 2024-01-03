@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        public static void Sort(int[] arrays)
+        public static void SelectSort(int[] arrays)
         {
             int length = arrays.Length - 1;
             int minIndex;   // Save the index of the selected minimum
@@ -33,7 +33,7 @@
         {
             // Select Sorting Algorithm: Sorts an array by repeatedly finding the minimum element from unsorted part and putting it at the beginning.
             int[] scores = { 90, 70, 50, 80, 60, 85 };
-            Sort(scores);
+            SelectSort(scores);
             for (int i = 0; i < scores.Length; i++)
             {
                 Console.Write(scores[i] + " ");

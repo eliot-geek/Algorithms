@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        public static void Sort(int[] arrays)
+        public static void BubbleSort(int[] arrays)
         {
             for (int i = 0; i < arrays.Length - 1; i++)
             {
@@ -23,7 +23,7 @@
         {
             // Sort the following numbers from small to large
             int[] scores = { 90, 70, 50, 80, 60, 85 };
-            Sort(scores);
+            BubbleSort(scores);
             for (int i = 0; i < scores.Length; i++)
             {
                 Console.Write(scores[i] + " ");

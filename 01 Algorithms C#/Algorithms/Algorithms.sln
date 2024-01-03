@@ -3,33 +3,41 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{80564820-EBF6-4939-B636-3D4EC9CF47A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms", "Algorithms\Algorithms.csproj", "{80564820-EBF6-4939-B636-3D4EC9CF47A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Linear_Table", "01_Linear_Table\01_Linear_Table.csproj", "{568B62EB-EFCB-4953-BE01-B2A6AC8282C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Linear_Table", "01_Linear_Table\01_Linear_Table.csproj", "{568B62EB-EFCB-4953-BE01-B2A6AC8282C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Maximum_Value", "02_Maximum_Value\02_Maximum_Value.csproj", "{62F07522-332D-4FC0-BB63-A1569BBD2C32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Maximum_Value", "02_Maximum_Value\02_Maximum_Value.csproj", "{62F07522-332D-4FC0-BB63-A1569BBD2C32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Bubble_Sorting_Algorithm", "03_Bubble_Sorting_Algorithm\03_Bubble_Sorting_Algorithm.csproj", "{F67076D6-593B-4C0F-A36A-55EF31E119B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Bubble_Sorting_Algorithm", "03_Bubble_Sorting_Algorithm\03_Bubble_Sorting_Algorithm.csproj", "{F67076D6-593B-4C0F-A36A-55EF31E119B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Minimum_Value", "04_Minimum_Value\04_Minimum_Value.csproj", "{F5D594E7-BC21-4CA4-8F65-3570E3C4BC96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Minimum_Value", "04_Minimum_Value\04_Minimum_Value.csproj", "{F5D594E7-BC21-4CA4-8F65-3570E3C4BC96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Select_Sorting_Algorithm", "05_Select_Sorting_Algorithm\05_Select_Sorting_Algorithm.csproj", "{B7EE3CAD-52F9-4887-A0CB-1436E1957AF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Select_Sorting_Algorithm", "05_Select_Sorting_Algorithm\05_Select_Sorting_Algorithm.csproj", "{B7EE3CAD-52F9-4887-A0CB-1436E1957AF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Linear_Table_Append", "06_Linear_Table_Append\06_Linear_Table_Append.csproj", "{7BFC703A-409A-4FED-B8F2-6E0F76897B6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Linear_Table_Append", "06_Linear_Table_Append\06_Linear_Table_Append.csproj", "{7BFC703A-409A-4FED-B8F2-6E0F76897B6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Linear_Table_Insert", "07_Linear_Table_Insert\07_Linear_Table_Insert.csproj", "{75DE619E-D1B6-4CF0-8055-69059686E24D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_Linear_Table_Insert", "07_Linear_Table_Insert\07_Linear_Table_Insert.csproj", "{75DE619E-D1B6-4CF0-8055-69059686E24D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Linear_Table_Delete", "08_Linear_Table_Delete\08_Linear_Table_Delete.csproj", "{D44FD894-0E6D-4ED2-8C67-DD271D57D245}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_Linear_Table_Delete", "08_Linear_Table_Delete\08_Linear_Table_Delete.csproj", "{D44FD894-0E6D-4ED2-8C67-DD271D57D245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Insert_Sorting_Algorithm", "09_Insert_Sorting_Algorithm\09_Insert_Sorting_Algorithm.csproj", "{6F12F981-700B-4183-9197-93B1249ED474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_Insert_Sorting_Algorithm", "09_Insert_Sorting_Algorithm\09_Insert_Sorting_Algorithm.csproj", "{6F12F981-700B-4183-9197-93B1249ED474}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Reverse_Array", "10_Reverse_Array\10_Reverse_Array.csproj", "{B6A6A4CE-8C9D-4995-8BB2-D230C93EFFE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_Reverse_Array", "10_Reverse_Array\10_Reverse_Array.csproj", "{B6A6A4CE-8C9D-4995-8BB2-D230C93EFFE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Linear_Table_Search", "11_Linear_Table_Search\11_Linear_Table_Search.csproj", "{119DB3E3-EC9D-461A-A385-2B6BD4F3D4DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_Linear_Table_Search", "11_Linear_Table_Search\11_Linear_Table_Search.csproj", "{119DB3E3-EC9D-461A-A385-2B6BD4F3D4DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Dichotomy_Binary_Search", "12_Dichotomy_Binary_Search\12_Dichotomy_Binary_Search.csproj", "{DECE1A03-05FB-4178-9F75-7FC9A1789D2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_Dichotomy_Binary_Search", "12_Dichotomy_Binary_Search\12_Dichotomy_Binary_Search.csproj", "{DECE1A03-05FB-4178-9F75-7FC9A1789D2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Shell_Sorting", "13_Shell_Sorting\13_Shell_Sorting.csproj", "{8276357E-F855-4DED-BF47-7561EAC5B6AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_Shell_Sorting", "13_Shell_Sorting\13_Shell_Sorting.csproj", "{8276357E-F855-4DED-BF47-7561EAC5B6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Unidirectional_Linked_List_Single_Link", "14_Unidirectional_Linked_List_Single_Link\14_Unidirectional_Linked_List_Single_Link.csproj", "{C173259B-A157-4433-A259-4310D813C996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Unidirectional_Linked_List_Append", "15_Unidirectional_Linked_List_Append\15_Unidirectional_Linked_List_Append.csproj", "{65F4A9CD-8F3B-42B4-8D9E-FC53F36042EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Unidirectional_Linked_List_Insert", "16_Unidirectional_Linked_List_Insert\16_Unidirectional_Linked_List_Insert.csproj", "{5BFEFBF4-6852-4312-B496-23ADE7B87F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_Unidirectional_Linked_List_Delete", "17_Unidirectional_Linked_List_Delete\17_Unidirectional_Linked_List_Delete.csproj", "{B3E3A443-771F-4B2B-AB4A-367BB4D147B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +101,22 @@ Global
 		{8276357E-F855-4DED-BF47-7561EAC5B6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8276357E-F855-4DED-BF47-7561EAC5B6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8276357E-F855-4DED-BF47-7561EAC5B6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C173259B-A157-4433-A259-4310D813C996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C173259B-A157-4433-A259-4310D813C996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C173259B-A157-4433-A259-4310D813C996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C173259B-A157-4433-A259-4310D813C996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F4A9CD-8F3B-42B4-8D9E-FC53F36042EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F4A9CD-8F3B-42B4-8D9E-FC53F36042EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F4A9CD-8F3B-42B4-8D9E-FC53F36042EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F4A9CD-8F3B-42B4-8D9E-FC53F36042EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFEFBF4-6852-4312-B496-23ADE7B87F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFEFBF4-6852-4312-B496-23ADE7B87F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFEFBF4-6852-4312-B496-23ADE7B87F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFEFBF4-6852-4312-B496-23ADE7B87F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E3A443-771F-4B2B-AB4A-367BB4D147B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E3A443-771F-4B2B-AB4A-367BB4D147B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E3A443-771F-4B2B-AB4A-367BB4D147B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E3A443-771F-4B2B-AB4A-367BB4D147B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
