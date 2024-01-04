@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\bin\Debug\net8.0\21_Doubly_Linked_List_Delete.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\bin\Debug\net8.0\21_Doubly_Linked_List_Delete.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\bin\Debug\net8.0\21_Doubly_Linked_List_Delete.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\bin\Debug\net8.0\21_Doubly_Linked_List_Delete.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\bin\Debug\net8.0\21_Doubly_Linked_List_Delete.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\obj\Debug\net8.0\21_Doubly_Linked_List_Delete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\obj\Debug\net8.0\21_Doubly_Linked_List_Delete.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\obj\Debug\net8.0\21_Doubly_Linked_List_Delete.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\obj\Debug\net8.0\21_Doubly_Linked_List_Delete.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\obj\Debug\net8.0\21_Doubly_Linked_List_Delete.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\obj\Debug\net8.0\refint\21_Doubly_Linked_List_Delete.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\obj\Debug\net8.0\21_Doubly_Linked_List_Delete.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\obj\Debug\net8.0\21_Doubly_Linked_List_Delete.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\21_Doubly_Linked_List_Delete\obj\Debug\net8.0\ref\21_Doubly_Linked_List_Delete.dll

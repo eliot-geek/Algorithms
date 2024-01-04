@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\bin\Debug\net8.0\18_Doubly_Linked_List.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\bin\Debug\net8.0\18_Doubly_Linked_List.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\bin\Debug\net8.0\18_Doubly_Linked_List.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\bin\Debug\net8.0\18_Doubly_Linked_List.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\bin\Debug\net8.0\18_Doubly_Linked_List.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\obj\Debug\net8.0\18_Doubly_Linked_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\obj\Debug\net8.0\18_Doubly_Linked_List.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\obj\Debug\net8.0\18_Doubly_Linked_List.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\obj\Debug\net8.0\18_Doubly_Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\obj\Debug\net8.0\18_Doubly_Linked_List.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\obj\Debug\net8.0\refint\18_Doubly_Linked_List.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\obj\Debug\net8.0\18_Doubly_Linked_List.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\obj\Debug\net8.0\18_Doubly_Linked_List.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\18_Doubly_Linked_List\obj\Debug\net8.0\ref\18_Doubly_Linked_List.dll

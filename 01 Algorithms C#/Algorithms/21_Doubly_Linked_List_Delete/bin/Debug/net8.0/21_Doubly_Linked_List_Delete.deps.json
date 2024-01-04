@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "21_Doubly_Linked_List_Delete/1.0.0": {
+        "runtime": {
+          "21_Doubly_Linked_List_Delete.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "21_Doubly_Linked_List_Delete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

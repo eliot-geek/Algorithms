@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\bin\Debug\net8.0\19_Doubly_Linked_List_Append.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\bin\Debug\net8.0\19_Doubly_Linked_List_Append.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\bin\Debug\net8.0\19_Doubly_Linked_List_Append.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\bin\Debug\net8.0\19_Doubly_Linked_List_Append.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\bin\Debug\net8.0\19_Doubly_Linked_List_Append.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\obj\Debug\net8.0\19_Doubly_Linked_List_Append.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\obj\Debug\net8.0\19_Doubly_Linked_List_Append.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\obj\Debug\net8.0\19_Doubly_Linked_List_Append.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\obj\Debug\net8.0\19_Doubly_Linked_List_Append.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\obj\Debug\net8.0\19_Doubly_Linked_List_Append.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\obj\Debug\net8.0\refint\19_Doubly_Linked_List_Append.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\obj\Debug\net8.0\19_Doubly_Linked_List_Append.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\obj\Debug\net8.0\19_Doubly_Linked_List_Append.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\19_Doubly_Linked_List_Append\obj\Debug\net8.0\ref\19_Doubly_Linked_List_Append.dll
