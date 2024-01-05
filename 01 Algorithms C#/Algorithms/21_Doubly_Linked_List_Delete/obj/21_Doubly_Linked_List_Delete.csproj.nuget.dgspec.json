@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\21_Doubly_Linked_List_Delete.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\21_Doubly_Linked_List_Delete.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\21_Doubly_Linked_List_Delete.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\21_Doubly_Linked_List_Delete.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\21_Doubly_Linked_List_Delete.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\21_Doubly_Linked_List_Delete.csproj",
         "projectName": "21_Doubly_Linked_List_Delete",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\21_Doubly_Linked_List_Delete.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\21_Doubly_Linked_List_Delete.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\21_Doubly_Linked_List_Delete\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

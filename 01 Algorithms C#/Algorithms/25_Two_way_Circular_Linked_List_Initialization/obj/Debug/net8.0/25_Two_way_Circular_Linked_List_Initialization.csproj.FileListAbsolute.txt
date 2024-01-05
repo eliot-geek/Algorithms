@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\bin\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.exe
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\bin\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\bin\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\bin\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.dll
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\bin\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.dll
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\refint\25_Two_way_Circular_Linked_List_Initialization.dll
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\25_Two_way_Circular_Linked_List_Initialization.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Algorithms\01 Algorithms C#\Algorithms\25_Two_way_Circular_Linked_List_Initialization\obj\Debug\net8.0\ref\25_Two_way_Circular_Linked_List_Initialization.dll

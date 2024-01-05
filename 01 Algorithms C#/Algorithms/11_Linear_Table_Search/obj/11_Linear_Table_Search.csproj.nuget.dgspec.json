@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\11_Linear_Table_Search.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\11_Linear_Table_Search.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\11_Linear_Table_Search.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\11_Linear_Table_Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\11_Linear_Table_Search.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\11_Linear_Table_Search.csproj",
         "projectName": "11_Linear_Table_Search",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\11_Linear_Table_Search.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\11_Linear_Table_Search.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\11_Linear_Table_Search\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\20_Doubly_Linked_List_Insert\\20_Doubly_Linked_List_Insert.csproj",
+      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\20_Doubly_Linked_List_Insert\\20_Doubly_Linked_List_Insert.csproj",
       "projectName": "20_Doubly_Linked_List_Insert",
-      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\20_Doubly_Linked_List_Insert\\20_Doubly_Linked_List_Insert.csproj",
+      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\20_Doubly_Linked_List_Insert\\20_Doubly_Linked_List_Insert.csproj",
       "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\20_Doubly_Linked_List_Insert\\obj\\",
+      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\20_Doubly_Linked_List_Insert\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
