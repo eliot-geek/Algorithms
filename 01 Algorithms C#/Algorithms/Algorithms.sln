@@ -47,17 +47,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20_Doubly_Linked_List_Inser
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21_Doubly_Linked_List_Delete", "21_Doubly_Linked_List_Delete\21_Doubly_Linked_List_Delete.csproj", "{9E424A9B-61CD-4CC0-811C-87E3EB56F169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_One_way_Circular_Linked_List_Initialization", "22_One_way_Circular_Linked_List_Initialization\22_One_way_Circular_Linked_List_Initialization.csproj", "{C58146CC-247C-4251-B405-770753FB1F8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22_One_way_Circular_Linked_List_Initialization", "22_One_way_Circular_Linked_List_Initialization\22_One_way_Circular_Linked_List_Initialization.csproj", "{C58146CC-247C-4251-B405-770753FB1F8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_One_way_Circular_Linked_List_Insert", "23_One_way_Circular_Linked_List_Insert\23_One_way_Circular_Linked_List_Insert.csproj", "{F3D8AF49-78DF-4EA1-A657-06D761ABBD17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23_One_way_Circular_Linked_List_Insert", "23_One_way_Circular_Linked_List_Insert\23_One_way_Circular_Linked_List_Insert.csproj", "{F3D8AF49-78DF-4EA1-A657-06D761ABBD17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_One_way_Circular_Linked_List_Delete", "24_One_way_Circular_Linked_List_Delete\24_One_way_Circular_Linked_List_Delete.csproj", "{537568EF-15EC-4B84-A568-07FF3F599953}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24_One_way_Circular_Linked_List_Delete", "24_One_way_Circular_Linked_List_Delete\24_One_way_Circular_Linked_List_Delete.csproj", "{537568EF-15EC-4B84-A568-07FF3F599953}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_Two_way_Circular_Linked_List_Initialization", "25_Two_way_Circular_Linked_List_Initialization\25_Two_way_Circular_Linked_List_Initialization.csproj", "{B9CF13EB-7BD1-482A-9B14-09E979349864}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25_Two_way_Circular_Linked_List_Initialization", "25_Two_way_Circular_Linked_List_Initialization\25_Two_way_Circular_Linked_List_Initialization.csproj", "{B9CF13EB-7BD1-482A-9B14-09E979349864}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_Two_way_Circular_Linked_List_Insert", "26_Two_way_Circular_Linked_List_Insert\26_Two_way_Circular_Linked_List_Insert.csproj", "{210DE4E4-ECC6-4DCA-B86D-6EBC912329FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26_Two_way_Circular_Linked_List_Insert", "26_Two_way_Circular_Linked_List_Insert\26_Two_way_Circular_Linked_List_Insert.csproj", "{210DE4E4-ECC6-4DCA-B86D-6EBC912329FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_Two_way_Circular_Linked_List_Delete", "27_Two_way_Circular_Linked_List_Delete\27_Two_way_Circular_Linked_List_Delete.csproj", "{D24CFB21-F53B-4923-B693-3A69234427B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27_Two_way_Circular_Linked_List_Delete", "27_Two_way_Circular_Linked_List_Delete\27_Two_way_Circular_Linked_List_Delete.csproj", "{D24CFB21-F53B-4923-B693-3A69234427B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_Queue_FIFO", "28_Queue_FIFO\28_Queue_FIFO.csproj", "{20BC882E-505B-49E4-9E8D-E811A830D4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29_Stack_FILO", "29_Stack_FILO\29_Stack_FILO.csproj", "{5AD73BA1-CE6A-4247-BBDB-E02015E1E6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_Recursive_Algorithm", "30_Recursive_Algorithm\30_Recursive_Algorithm.csproj", "{7976A18A-0043-42EA-A916-26C90707CDEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +183,18 @@ Global
 		{D24CFB21-F53B-4923-B693-3A69234427B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D24CFB21-F53B-4923-B693-3A69234427B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D24CFB21-F53B-4923-B693-3A69234427B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20BC882E-505B-49E4-9E8D-E811A830D4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BC882E-505B-49E4-9E8D-E811A830D4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BC882E-505B-49E4-9E8D-E811A830D4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BC882E-505B-49E4-9E8D-E811A830D4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD73BA1-CE6A-4247-BBDB-E02015E1E6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD73BA1-CE6A-4247-BBDB-E02015E1E6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD73BA1-CE6A-4247-BBDB-E02015E1E6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD73BA1-CE6A-4247-BBDB-E02015E1E6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7976A18A-0043-42EA-A916-26C90707CDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7976A18A-0043-42EA-A916-26C90707CDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7976A18A-0043-42EA-A916-26C90707CDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7976A18A-0043-42EA-A916-26C90707CDEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

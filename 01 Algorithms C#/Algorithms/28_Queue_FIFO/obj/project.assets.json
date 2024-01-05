@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\Algorithms\\Algorithms.csproj",
-      "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj",
+      "projectName": "28_Queue_FIFO",
+      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj",
       "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\Algorithms\\obj\\",
+      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

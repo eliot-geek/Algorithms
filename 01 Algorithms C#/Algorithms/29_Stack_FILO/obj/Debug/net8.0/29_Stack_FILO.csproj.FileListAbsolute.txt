@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\bin\Debug\net8.0\29_Stack_FILO.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\bin\Debug\net8.0\29_Stack_FILO.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\bin\Debug\net8.0\29_Stack_FILO.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\bin\Debug\net8.0\29_Stack_FILO.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\bin\Debug\net8.0\29_Stack_FILO.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\obj\Debug\net8.0\29_Stack_FILO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\obj\Debug\net8.0\29_Stack_FILO.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\obj\Debug\net8.0\29_Stack_FILO.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\obj\Debug\net8.0\29_Stack_FILO.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\obj\Debug\net8.0\29_Stack_FILO.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\obj\Debug\net8.0\refint\29_Stack_FILO.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\obj\Debug\net8.0\29_Stack_FILO.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\obj\Debug\net8.0\29_Stack_FILO.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\29_Stack_FILO\obj\Debug\net8.0\ref\29_Stack_FILO.dll

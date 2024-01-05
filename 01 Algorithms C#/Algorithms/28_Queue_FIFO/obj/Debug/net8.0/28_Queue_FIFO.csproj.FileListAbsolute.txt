@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\bin\Debug\net8.0\28_Queue_FIFO.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\bin\Debug\net8.0\28_Queue_FIFO.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\bin\Debug\net8.0\28_Queue_FIFO.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\bin\Debug\net8.0\28_Queue_FIFO.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\bin\Debug\net8.0\28_Queue_FIFO.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\obj\Debug\net8.0\28_Queue_FIFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\obj\Debug\net8.0\28_Queue_FIFO.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\obj\Debug\net8.0\28_Queue_FIFO.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\obj\Debug\net8.0\28_Queue_FIFO.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\obj\Debug\net8.0\28_Queue_FIFO.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\obj\Debug\net8.0\refint\28_Queue_FIFO.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\obj\Debug\net8.0\28_Queue_FIFO.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\obj\Debug\net8.0\28_Queue_FIFO.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\28_Queue_FIFO\obj\Debug\net8.0\ref\28_Queue_FIFO.dll
