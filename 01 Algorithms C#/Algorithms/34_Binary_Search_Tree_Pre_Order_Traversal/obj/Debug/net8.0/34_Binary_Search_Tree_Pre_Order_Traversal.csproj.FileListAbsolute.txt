@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\bin\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\bin\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\bin\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\bin\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\bin\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\obj\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\obj\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\obj\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\obj\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\obj\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\obj\Debug\net8.0\refint\34_Binary_Search_Tree_Pre_Order_Traversal.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\obj\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\obj\Debug\net8.0\34_Binary_Search_Tree_Pre_Order_Traversal.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\34_Binary_Search_Tree_Pre_Order_Traversal\obj\Debug\net8.0\ref\34_Binary_Search_Tree_Pre_Order_Traversal.dll

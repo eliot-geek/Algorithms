@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "37_Binary_Search_Tree_Delete_Node/1.0.0": {
+        "runtime": {
+          "37_Binary_Search_Tree_Delete_Node.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "37_Binary_Search_Tree_Delete_Node/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

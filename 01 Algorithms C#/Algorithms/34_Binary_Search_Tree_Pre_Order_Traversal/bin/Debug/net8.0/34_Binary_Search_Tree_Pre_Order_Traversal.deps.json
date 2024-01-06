@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "34_Binary_Search_Tree_Pre_Order_Traversal/1.0.0": {
+        "runtime": {
+          "34_Binary_Search_Tree_Pre_Order_Traversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "34_Binary_Search_Tree_Pre_Order_Traversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

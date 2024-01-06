@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\bin\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\bin\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\bin\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\bin\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\bin\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\obj\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\obj\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\obj\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\obj\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\obj\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\obj\Debug\net8.0\refint\36_Binary_Search_Tree_Maximum_And_Minimum.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\obj\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\obj\Debug\net8.0\36_Binary_Search_Tree_Maximum_And_Minimum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\36_Binary_Search_Tree_Maximum_And_Minimum\obj\Debug\net8.0\ref\36_Binary_Search_Tree_Maximum_And_Minimum.dll
