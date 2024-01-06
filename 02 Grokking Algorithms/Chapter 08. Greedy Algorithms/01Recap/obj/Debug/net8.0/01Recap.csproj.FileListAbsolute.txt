@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\bin\Debug\net8.0\01Recap.exe
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\bin\Debug\net8.0\01Recap.deps.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\bin\Debug\net8.0\01Recap.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\bin\Debug\net8.0\01Recap.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\bin\Debug\net8.0\01Recap.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\obj\Debug\net8.0\01Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\obj\Debug\net8.0\01Recap.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\obj\Debug\net8.0\01Recap.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\obj\Debug\net8.0\01Recap.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\obj\Debug\net8.0\01Recap.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\obj\Debug\net8.0\refint\01Recap.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\obj\Debug\net8.0\01Recap.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\obj\Debug\net8.0\01Recap.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\01Recap\obj\Debug\net8.0\ref\01Recap.dll

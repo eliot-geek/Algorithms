@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\bin\Debug\net8.0\05CheckVoter.exe
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\bin\Debug\net8.0\05CheckVoter.deps.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\bin\Debug\net8.0\05CheckVoter.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\bin\Debug\net8.0\05CheckVoter.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\bin\Debug\net8.0\05CheckVoter.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\obj\Debug\net8.0\05CheckVoter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\obj\Debug\net8.0\05CheckVoter.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\obj\Debug\net8.0\05CheckVoter.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\obj\Debug\net8.0\05CheckVoter.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\obj\Debug\net8.0\05CheckVoter.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\obj\Debug\net8.0\refint\05CheckVoter.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\obj\Debug\net8.0\05CheckVoter.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\obj\Debug\net8.0\05CheckVoter.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05CheckVoter\obj\Debug\net8.0\ref\05CheckVoter.dll

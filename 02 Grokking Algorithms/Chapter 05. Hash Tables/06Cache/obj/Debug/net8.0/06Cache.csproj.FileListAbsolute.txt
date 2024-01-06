@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\bin\Debug\net8.0\06Cache.exe
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\bin\Debug\net8.0\06Cache.deps.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\bin\Debug\net8.0\06Cache.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\bin\Debug\net8.0\06Cache.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\bin\Debug\net8.0\06Cache.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\obj\Debug\net8.0\06Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\obj\Debug\net8.0\06Cache.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\obj\Debug\net8.0\06Cache.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\obj\Debug\net8.0\06Cache.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\obj\Debug\net8.0\06Cache.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\obj\Debug\net8.0\refint\06Cache.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\obj\Debug\net8.0\06Cache.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\obj\Debug\net8.0\06Cache.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06Cache\obj\Debug\net8.0\ref\06Cache.dll

@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\bin\Debug\net8.0\02SetCoveringProblem.exe
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\bin\Debug\net8.0\02SetCoveringProblem.deps.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\bin\Debug\net8.0\02SetCoveringProblem.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\bin\Debug\net8.0\02SetCoveringProblem.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\bin\Debug\net8.0\02SetCoveringProblem.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\obj\Debug\net8.0\02SetCoveringProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\obj\Debug\net8.0\02SetCoveringProblem.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\obj\Debug\net8.0\02SetCoveringProblem.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\obj\Debug\net8.0\02SetCoveringProblem.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\obj\Debug\net8.0\02SetCoveringProblem.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\obj\Debug\net8.0\refint\02SetCoveringProblem.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\obj\Debug\net8.0\02SetCoveringProblem.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\obj\Debug\net8.0\02SetCoveringProblem.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02SetCoveringProblem\obj\Debug\net8.0\ref\02SetCoveringProblem.dll

@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\bin\Debug\net8.0\02PhoneBook.exe
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\bin\Debug\net8.0\02PhoneBook.deps.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\bin\Debug\net8.0\02PhoneBook.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\bin\Debug\net8.0\02PhoneBook.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\bin\Debug\net8.0\02PhoneBook.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\obj\Debug\net8.0\02PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\obj\Debug\net8.0\02PhoneBook.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\obj\Debug\net8.0\02PhoneBook.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\obj\Debug\net8.0\02PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\obj\Debug\net8.0\02PhoneBook.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\obj\Debug\net8.0\refint\02PhoneBook.dll
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\obj\Debug\net8.0\02PhoneBook.pdb
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\obj\Debug\net8.0\02PhoneBook.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\02PhoneBook\obj\Debug\net8.0\ref\02PhoneBook.dll
