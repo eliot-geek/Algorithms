@@ -65,19 +65,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29_Stack_FILO", "29_Stack_F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30_Recursive_Algorithm", "30_Recursive_Algorithm\30_Recursive_Algorithm.csproj", "{7976A18A-0043-42EA-A916-26C90707CDEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_Two_way_Merge_Algorithm", "31_Two_way_Merge_Algorithm\31_Two_way_Merge_Algorithm.csproj", "{CAEBA763-80AA-4103-8299-A92F23CC34B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31_Two_way_Merge_Algorithm", "31_Two_way_Merge_Algorithm\31_Two_way_Merge_Algorithm.csproj", "{CAEBA763-80AA-4103-8299-A92F23CC34B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32_QuickSort_Algorithm", "32_QuickSort_Algorithm\32_QuickSort_Algorithm.csproj", "{A8A08573-95A2-488C-86F8-AC159F7579A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32_QuickSort_Algorithm", "32_QuickSort_Algorithm\32_QuickSort_Algorithm.csproj", "{A8A08573-95A2-488C-86F8-AC159F7579A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_Binary_Search_Tree_In_Order_Traversal", "33_Binary_Search_Tree_In_Order_Traversal\33_Binary_Search_Tree_In_Order_Traversal.csproj", "{E8C07CF6-1B5F-418C-B37A-C39D4B5CA0E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33_Binary_Search_Tree_In_Order_Traversal", "33_Binary_Search_Tree_In_Order_Traversal\33_Binary_Search_Tree_In_Order_Traversal.csproj", "{E8C07CF6-1B5F-418C-B37A-C39D4B5CA0E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34_Binary_Search_Tree_Pre_Order_Traversal", "34_Binary_Search_Tree_Pre_Order_Traversal\34_Binary_Search_Tree_Pre_Order_Traversal.csproj", "{02D8B83A-6AF8-454A-BE62-02779F02FA17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34_Binary_Search_Tree_Pre_Order_Traversal", "34_Binary_Search_Tree_Pre_Order_Traversal\34_Binary_Search_Tree_Pre_Order_Traversal.csproj", "{02D8B83A-6AF8-454A-BE62-02779F02FA17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_Binary_Search_Tree_Post_Order_Traversal", "35_Binary_Search_Tree_Post_Order_Traversal\35_Binary_Search_Tree_Post_Order_Traversal.csproj", "{C5FEFA9F-AE9B-4B92-A837-12352389B4D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35_Binary_Search_Tree_Post_Order_Traversal", "35_Binary_Search_Tree_Post_Order_Traversal\35_Binary_Search_Tree_Post_Order_Traversal.csproj", "{C5FEFA9F-AE9B-4B92-A837-12352389B4D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_Binary_Search_Tree_Maximum_And_Minimum", "36_Binary_Search_Tree_Maximum_And_Minimum\36_Binary_Search_Tree_Maximum_And_Minimum.csproj", "{3071E172-1ADB-4D00-8203-769BF82B540E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36_Binary_Search_Tree_Maximum_And_Minimum", "36_Binary_Search_Tree_Maximum_And_Minimum\36_Binary_Search_Tree_Maximum_And_Minimum.csproj", "{3071E172-1ADB-4D00-8203-769BF82B540E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_Binary_Search_Tree_Delete_Node", "37_Binary_Search_Tree_Delete_Node\37_Binary_Search_Tree_Delete_Node.csproj", "{6C1D0019-4C75-4B73-8328-CBA44D7B2511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37_Binary_Search_Tree_Delete_Node", "37_Binary_Search_Tree_Delete_Node\37_Binary_Search_Tree_Delete_Node.csproj", "{6C1D0019-4C75-4B73-8328-CBA44D7B2511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38_Binary_Heap_Sorting", "38_Binary_Heap_Sorting\38_Binary_Heap_Sorting.csproj", "{089A20E0-CB0D-457A-A42A-6A99AF3B1072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_Hash_Table", "39_Hash_Table\39_Hash_Table.csproj", "{8508651B-00B4-4AF3-B08D-D620AC807724}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +241,14 @@ Global
 		{6C1D0019-4C75-4B73-8328-CBA44D7B2511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C1D0019-4C75-4B73-8328-CBA44D7B2511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C1D0019-4C75-4B73-8328-CBA44D7B2511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089A20E0-CB0D-457A-A42A-6A99AF3B1072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089A20E0-CB0D-457A-A42A-6A99AF3B1072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089A20E0-CB0D-457A-A42A-6A99AF3B1072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089A20E0-CB0D-457A-A42A-6A99AF3B1072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8508651B-00B4-4AF3-B08D-D620AC807724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8508651B-00B4-4AF3-B08D-D620AC807724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8508651B-00B4-4AF3-B08D-D620AC807724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8508651B-00B4-4AF3-B08D-D620AC807724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
