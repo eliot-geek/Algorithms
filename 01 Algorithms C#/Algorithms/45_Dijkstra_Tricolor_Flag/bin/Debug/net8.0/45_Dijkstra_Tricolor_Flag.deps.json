@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "45_Dijkstra_Tricolor_Flag/1.0.0": {
+        "runtime": {
+          "45_Dijkstra_Tricolor_Flag.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "45_Dijkstra_Tricolor_Flag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

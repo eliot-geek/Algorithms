@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\bin\Debug\net8.0\45_Dijkstra_Tricolor_Flag.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\bin\Debug\net8.0\45_Dijkstra_Tricolor_Flag.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\bin\Debug\net8.0\45_Dijkstra_Tricolor_Flag.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\bin\Debug\net8.0\45_Dijkstra_Tricolor_Flag.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\bin\Debug\net8.0\45_Dijkstra_Tricolor_Flag.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\obj\Debug\net8.0\45_Dijkstra_Tricolor_Flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\obj\Debug\net8.0\45_Dijkstra_Tricolor_Flag.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\obj\Debug\net8.0\45_Dijkstra_Tricolor_Flag.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\obj\Debug\net8.0\45_Dijkstra_Tricolor_Flag.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\obj\Debug\net8.0\45_Dijkstra_Tricolor_Flag.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\obj\Debug\net8.0\refint\45_Dijkstra_Tricolor_Flag.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\obj\Debug\net8.0\45_Dijkstra_Tricolor_Flag.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\obj\Debug\net8.0\45_Dijkstra_Tricolor_Flag.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\45_Dijkstra_Tricolor_Flag\obj\Debug\net8.0\ref\45_Dijkstra_Tricolor_Flag.dll

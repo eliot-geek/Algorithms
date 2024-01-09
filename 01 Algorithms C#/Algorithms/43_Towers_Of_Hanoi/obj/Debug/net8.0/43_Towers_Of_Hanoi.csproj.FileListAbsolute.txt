@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\bin\Debug\net8.0\43_Towers_Of_Hanoi.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\bin\Debug\net8.0\43_Towers_Of_Hanoi.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\bin\Debug\net8.0\43_Towers_Of_Hanoi.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\bin\Debug\net8.0\43_Towers_Of_Hanoi.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\bin\Debug\net8.0\43_Towers_Of_Hanoi.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\obj\Debug\net8.0\43_Towers_Of_Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\obj\Debug\net8.0\43_Towers_Of_Hanoi.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\obj\Debug\net8.0\43_Towers_Of_Hanoi.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\obj\Debug\net8.0\43_Towers_Of_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\obj\Debug\net8.0\43_Towers_Of_Hanoi.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\obj\Debug\net8.0\refint\43_Towers_Of_Hanoi.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\obj\Debug\net8.0\43_Towers_Of_Hanoi.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\obj\Debug\net8.0\43_Towers_Of_Hanoi.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\43_Towers_Of_Hanoi\obj\Debug\net8.0\ref\43_Towers_Of_Hanoi.dll
