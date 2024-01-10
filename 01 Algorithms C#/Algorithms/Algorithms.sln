@@ -89,13 +89,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "41_Graph_Breadth_First_Sear
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42_Directed_Graph_Topological_Sorting", "42_Directed_Graph_Topological_Sorting\42_Directed_Graph_Topological_Sorting.csproj", "{B2A71977-4D44-47B5-93B2-038D6487835A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43_Towers_Of_Hanoi", "43_Towers_Of_Hanoi\43_Towers_Of_Hanoi.csproj", "{6E8436AE-4DA4-4464-B430-699A169E8E07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "43_Towers_Of_Hanoi", "43_Towers_Of_Hanoi\43_Towers_Of_Hanoi.csproj", "{6E8436AE-4DA4-4464-B430-699A169E8E07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44_Fibonacci_Algorithm", "44_Fibonacci_Algorithm\44_Fibonacci_Algorithm.csproj", "{543B8A48-0FA6-4196-941C-F37C11D60B14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "44_Fibonacci_Algorithm", "44_Fibonacci_Algorithm\44_Fibonacci_Algorithm.csproj", "{543B8A48-0FA6-4196-941C-F37C11D60B14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45_Dijkstra_Tricolor_Flag", "45_Dijkstra_Tricolor_Flag\45_Dijkstra_Tricolor_Flag.csproj", "{DB8D2618-6B46-44AB-BD02-93756ECF41F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45_Dijkstra_Tricolor_Flag", "45_Dijkstra_Tricolor_Flag\45_Dijkstra_Tricolor_Flag.csproj", "{DB8D2618-6B46-44AB-BD02-93756ECF41F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46_Mouse_Walking_Maze", "46_Mouse_Walking_Maze\46_Mouse_Walking_Maze.csproj", "{70EDBF72-7D34-40A4-B705-9DB2866D8251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "46_Mouse_Walking_Maze", "46_Mouse_Walking_Maze\46_Mouse_Walking_Maze.csproj", "{70EDBF72-7D34-40A4-B705-9DB2866D8251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47_Eight_Coins", "47_Eight_Coins\47_Eight_Coins.csproj", "{60A9064D-7CF2-4F40-B429-D5F28EE5DFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48_Knapsack_Problem", "48_Knapsack_Problem\48_Knapsack_Problem.csproj", "{61B4D5F3-BC18-4E18-B322-1276D1C90BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49_Josephus_Problem", "49_Josephus_Problem\49_Josephus_Problem.csproj", "{CBD6737A-C737-477E-ACBE-83AA3E7E2A91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +297,18 @@ Global
 		{70EDBF72-7D34-40A4-B705-9DB2866D8251}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70EDBF72-7D34-40A4-B705-9DB2866D8251}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70EDBF72-7D34-40A4-B705-9DB2866D8251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A9064D-7CF2-4F40-B429-D5F28EE5DFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A9064D-7CF2-4F40-B429-D5F28EE5DFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A9064D-7CF2-4F40-B429-D5F28EE5DFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A9064D-7CF2-4F40-B429-D5F28EE5DFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B4D5F3-BC18-4E18-B322-1276D1C90BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B4D5F3-BC18-4E18-B322-1276D1C90BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B4D5F3-BC18-4E18-B322-1276D1C90BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B4D5F3-BC18-4E18-B322-1276D1C90BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD6737A-C737-477E-ACBE-83AA3E7E2A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD6737A-C737-477E-ACBE-83AA3E7E2A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD6737A-C737-477E-ACBE-83AA3E7E2A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD6737A-C737-477E-ACBE-83AA3E7E2A91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\45_Dijkstra_Tricolor_Flag\\45_Dijkstra_Tricolor_Flag.csproj",
+      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\45_Dijkstra_Tricolor_Flag\\45_Dijkstra_Tricolor_Flag.csproj",
       "projectName": "45_Dijkstra_Tricolor_Flag",
-      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\45_Dijkstra_Tricolor_Flag\\45_Dijkstra_Tricolor_Flag.csproj",
+      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\45_Dijkstra_Tricolor_Flag\\45_Dijkstra_Tricolor_Flag.csproj",
       "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\45_Dijkstra_Tricolor_Flag\\obj\\",
+      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\45_Dijkstra_Tricolor_Flag\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

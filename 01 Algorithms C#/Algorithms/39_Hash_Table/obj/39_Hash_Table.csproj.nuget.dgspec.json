@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\39_Hash_Table.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\39_Hash_Table.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\39_Hash_Table.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\39_Hash_Table.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\39_Hash_Table.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\39_Hash_Table.csproj",
         "projectName": "39_Hash_Table",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\39_Hash_Table.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\39_Hash_Table.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\39_Hash_Table\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

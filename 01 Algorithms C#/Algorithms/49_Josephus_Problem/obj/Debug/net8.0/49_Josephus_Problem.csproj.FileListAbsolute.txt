@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\bin\Debug\net8.0\49_Josephus_Problem.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\bin\Debug\net8.0\49_Josephus_Problem.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\bin\Debug\net8.0\49_Josephus_Problem.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\bin\Debug\net8.0\49_Josephus_Problem.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\bin\Debug\net8.0\49_Josephus_Problem.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\obj\Debug\net8.0\49_Josephus_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\obj\Debug\net8.0\49_Josephus_Problem.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\obj\Debug\net8.0\49_Josephus_Problem.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\obj\Debug\net8.0\49_Josephus_Problem.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\obj\Debug\net8.0\49_Josephus_Problem.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\obj\Debug\net8.0\refint\49_Josephus_Problem.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\obj\Debug\net8.0\49_Josephus_Problem.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\obj\Debug\net8.0\49_Josephus_Problem.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\49_Josephus_Problem\obj\Debug\net8.0\ref\49_Josephus_Problem.dll

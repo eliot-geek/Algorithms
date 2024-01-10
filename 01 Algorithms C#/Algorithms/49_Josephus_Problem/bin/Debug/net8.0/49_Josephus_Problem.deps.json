@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "49_Josephus_Problem/1.0.0": {
+        "runtime": {
+          "49_Josephus_Problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "49_Josephus_Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\bin\Debug\net8.0\47_Eight_Coins.exe
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\bin\Debug\net8.0\47_Eight_Coins.deps.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\bin\Debug\net8.0\47_Eight_Coins.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\bin\Debug\net8.0\47_Eight_Coins.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\bin\Debug\net8.0\47_Eight_Coins.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\obj\Debug\net8.0\47_Eight_Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\obj\Debug\net8.0\47_Eight_Coins.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\obj\Debug\net8.0\47_Eight_Coins.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\obj\Debug\net8.0\47_Eight_Coins.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\obj\Debug\net8.0\47_Eight_Coins.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\obj\Debug\net8.0\refint\47_Eight_Coins.dll
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\obj\Debug\net8.0\47_Eight_Coins.pdb
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\obj\Debug\net8.0\47_Eight_Coins.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Algorithms\01 Algorithms C#\Algorithms\47_Eight_Coins\obj\Debug\net8.0\ref\47_Eight_Coins.dll

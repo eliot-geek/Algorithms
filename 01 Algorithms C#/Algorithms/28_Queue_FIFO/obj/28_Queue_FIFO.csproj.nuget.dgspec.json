@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj",
         "projectName": "28_Queue_FIFO",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\28_Queue_FIFO.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Algorithms\\01 Algorithms C#\\Algorithms\\28_Queue_FIFO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
